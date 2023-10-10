@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(24, 24, 24);
+}
+
+.c-wrap {
+    display: flex;
+    background-color: rgb(192, 191, 179);
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
+
+.p-wrap {
+    display: flex;
+    justify-content: center;
+}
